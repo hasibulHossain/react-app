@@ -1,0 +1,10 @@
+.person {
+    margin: 20px auto;
+    width: 40%;
+    height: auto;
+
+    background-color: rgba(204, 204, 204, 0.212);
+    border: 4px solid #eee;
+    padding: 15px;
+    margin-bottom: 15px;
+}

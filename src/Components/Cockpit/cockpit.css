@@ -1,0 +1,33 @@
+*:focus {
+    outline: none;
+}
+.crimson {
+    color: crimson;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.buttons {
+    border: none;
+    color: white;
+    padding: 6px 19px;
+    background: green;
+}
+
+.buttons:active {
+    background: greenyellow;
+    color: black;
+    font-weight: bold;
+}
+
+.buttons.red {
+    background: crimson;
+}
+
+.buttons.red:hover {
+    color: white;
+    font-weight: normal;
+    background: rgb(192, 38, 69);
+}
